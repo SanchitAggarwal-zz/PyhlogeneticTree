@@ -1,7 +1,7 @@
 PyhlogeneticTree
 ================
 
-Matlab implementation of Phylogenetic tree using bioinformatics tool box.
+Matlab demo implementation of Phylogenetic tree using bioinformatics tool box.
 Run the code in matlab to get following visualization of the tree.
 
 Following is the generated phylogenetic tree:
